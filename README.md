@@ -6,6 +6,8 @@ Run the program to get the list of moves to play:
 go run github.com/Nik-U/cgpgreyrockpaperscissors@latest
 ```
 
+Alternatively, you can run the program [directly in the Go Playground](https://go.dev/play/p/ZDVtt2X_l65).
+
 The game can be found here: https://www.youtube.com/watch?v=PmWQmZXYd74
 
 **Do not use this program unless you have already played the game legitimately.**
